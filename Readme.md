@@ -9,3 +9,5 @@ A Streamlit application that lets users upload PDF or DOCX files and chat with t
 - Semantic Search
 - AI Question Answering
 - Powered by Groq
+
+Live : https://pdfreader-5gfettmxefb4kvn3u8f2jo.streamlit.app/
